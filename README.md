@@ -1,5 +1,10 @@
 # React Resume | [![React](https://img.shields.io/badge/React-17.0.2-149ECA.svg?style=flat-square&logo=react)](https://es.reactjs.org) [![Boxicons](https://img.shields.io/badge/Boxicons-2.1.1-006064.svg?style=flat-square&logo=box)](https://boxicons.com) [![React-particles-js](https://img.shields.io/badge/React--particles--js-3.5.3-149ECA.svg?style=flat-square&logo=react)](https://www.npmjs.com/package/react-particles-js)
 
+### Appreciation ❤️
+
+- This project has been adapted and edited from Maato's original work.
+- https://github.com/Maaato/react-resume
+
 ## Features 🌟
 
 - Light / Dark mode 🌗
@@ -20,8 +25,3 @@
 
 1. Run `yarn dev` or `npm run dev` to start the app.
 2. Open your browser and navigate to `http://localhost:5173`.
-
-### Appreciation ❤️
-
-- This project has been adapted and edited from Maato's original work.
-- https://github.com/Maaato/react-resume
